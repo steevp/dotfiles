@@ -13,3 +13,4 @@ PS1='[\u@\h \W]\$ '
 export EDITOR="/usr/bin/vim"
 
 complete -cf sudo
+alias steam-runtime='/home/steven/.steam/steam/ubuntu12_32/steam-runtime/run.sh'
